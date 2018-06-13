@@ -1,0 +1,2 @@
+model_checkpoint_path: "davizuku_gru_ts_model"
+all_model_checkpoint_paths: "davizuku_gru_ts_model"
