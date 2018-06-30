@@ -1,2 +1,2 @@
-model_checkpoint_path: "rnn_time_series_model_davizuku"
-all_model_checkpoint_paths: "rnn_time_series_model_davizuku"
+model_checkpoint_path: "davizuku-stacked-autoencoder-example.ckpt"
+all_model_checkpoint_paths: "davizuku-stacked-autoencoder-example.ckpt"
