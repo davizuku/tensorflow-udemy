@@ -1,0 +1,2 @@
+model_checkpoint_path: "davizuku-policy-model"
+all_model_checkpoint_paths: "davizuku-policy-model"
