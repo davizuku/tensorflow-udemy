@@ -1,2 +1,2 @@
-model_checkpoint_path: "davizuku-stacked-autoencoder-example.ckpt"
-all_model_checkpoint_paths: "davizuku-stacked-autoencoder-example.ckpt"
+model_checkpoint_path: "davizuku-gan-model"
+all_model_checkpoint_paths: "davizuku-gan-model"
